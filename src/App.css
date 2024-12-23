@@ -16,12 +16,13 @@ body {
     color: white;
   }
   
-  .services {
+  
+  /* .services {
     display: flex;
     gap: 20px;
     padding: 20px;
     justify-content: center;
-  }
+  } 
   
   .service-card {
     border: 1px solid #ddd;
@@ -30,4 +31,4 @@ body {
     background: white;
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
   }
-  
+   */
