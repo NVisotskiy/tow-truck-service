@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tow-truck-service/static/css/main.f2e11507.css",
+    "main.js": "/tow-truck-service/static/js/main.91f02476.js",
+    "index.html": "/tow-truck-service/index.html",
+    "main.f2e11507.css.map": "/tow-truck-service/static/css/main.f2e11507.css.map",
+    "main.91f02476.js.map": "/tow-truck-service/static/js/main.91f02476.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f2e11507.css",
+    "static/js/main.91f02476.js"
+  ]
+}
