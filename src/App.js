@@ -3,6 +3,7 @@ import Header from "./components/Header";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Footer from "./components/Footer";
+import Pricing from "./components/Pricing";
 import "./App.css";
 
 export default function App() {
@@ -53,7 +54,9 @@ export default function App() {
       />
       <Hero content={content} language={language} />
       <Services content={content} language={language} />
-      <Footer content={content} language={language} />
+      <Pricing content={content} language={language} />
+      <Footer /> {/* Footer не требует пропсов */}
     </div>
   );
+  
 }
